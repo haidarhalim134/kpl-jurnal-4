@@ -1,0 +1,15 @@
+D:\console_1302220152\bin\Debug\net8.0\console_1302220152.exe
+D:\console_1302220152\bin\Debug\net8.0\console_1302220152.deps.json
+D:\console_1302220152\bin\Debug\net8.0\console_1302220152.runtimeconfig.json
+D:\console_1302220152\bin\Debug\net8.0\console_1302220152.dll
+D:\console_1302220152\bin\Debug\net8.0\console_1302220152.pdb
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.GeneratedMSBuildEditorConfig.editorconfig
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.AssemblyInfoInputs.cache
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.AssemblyInfo.cs
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.csproj.CoreCompileInputs.cache
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.sourcelink.json
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.dll
+D:\console_1302220152\obj\Debug\net8.0\refint\console_1302220152.dll
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.pdb
+D:\console_1302220152\obj\Debug\net8.0\console_1302220152.genruntimeconfig.cache
+D:\console_1302220152\obj\Debug\net8.0\ref\console_1302220152.dll
